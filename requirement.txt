@@ -1,0 +1,4 @@
+wikipedia
+transformers
+sentence-transformers
+faiss-cpu
